@@ -86,7 +86,7 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 
 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto está sem nenhum tipo de licença
 
 Code
 
